@@ -37,11 +37,3 @@
 
  
 
-##
-
-<div align="center">
-
-  <span>🎧 Escute a rádio AluSoft [Ao Vivo!]🎧</span>
-  
-  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/V-X5E6Jo4GU/0.jpg)](https://www.youtube.com/alusoft/live)
-</div>
